@@ -2,7 +2,7 @@
 
 Welcome to the official documentation for **IFNepitope**, a comprehensive computational tool developed to predict and design interferon-gamma (IFN-γ) inducing peptides. IFN-γ is a vital cytokine secreted by MHC class II-activated CD4+ T helper cells, playing a substantial role in controlling infections like *Mycobacterium tuberculosis*.
 
-**Web Server:** [http://crdd.osdd.net/raghava/ifnepitope/](http://crdd.osdd.net/raghava/ifnepitope/)
+**Web Server:** [http://crdd.osdd.net/raghava/ifnepitope/](http://crdd.osdd.net/raghava/ifnepitope/)(https://webs.iiitd.edu.in/raghava/ifnepitope)
 
 ---
 
