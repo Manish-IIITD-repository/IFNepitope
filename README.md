@@ -12,6 +12,8 @@ Dhanda, S. K., Vir, P., & Raghava, G. P. S. (2013).
 **Designing of interferon-gamma inducing MHC class-II binders.** *Biology Direct*, 8, 30. 
 [https://doi.org/10.1186/1745-6150-8-30](https://doi.org/10.1186/1745-6150-8-30)
 
+zonedo:_(https://doi.org/10.5281/zenodo.20096942)
+
 ---
 
 ## About the Platform
